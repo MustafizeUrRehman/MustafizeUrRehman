@@ -10,26 +10,7 @@
 
 ### 👋 About Me
 
-I'm a full-stack developer and final-year Computer Science student who builds **complete, working products** — not tutorials, not boilerplate. From database schema to deployed UI to the AI layer that makes an app actually think, I own the whole stack.
-
-My current focus: **EduDesk**, a cloud CRM for visa & study consultancy agencies, with a two-way **WhatsApp AI agent** wired directly into the business — built on Next.js, Supabase, Prisma, and the Groq API. I've also shipped real-world systems: a MERN-based real estate platform with a full admin architecture, a production billing/inventory desktop app (C# / .NET), and client websites with SEO and automation pipelines built on n8n.
-
-I care about clean architecture over quick hacks, and I'd rather ship one solid product than ten half-finished ones.
-
-### 🚀 Highlighted Work
-
-- **EduDesk** — Cloud CRM for consultancy agencies with an embedded WhatsApp AI agent (Next.js · Supabase · Prisma · Groq)
-- **Mughal Real Estate** — Full-stack MERN platform with separate client/admin/backend architecture
-- **Retail Billing System** — Production desktop app (C# / .NET 8, SQLite/Dapper) — delivered and live
-- **Client Web + Automation** — Export business websites with SEO setup and n8n-powered automation flows
-
-### 🤖 Automation & AI Agents
-
-This is where I go beyond typical full-stack work:
-
-- Building **AI agents that run inside real business workflows** — not demos, production tools (WhatsApp CEO agent for EduDesk using Groq API structured outputs)
-- Designing **automation pipelines** with n8n to connect business logic across services
-- Applying **prompt engineering** and structured LLM outputs directly into product features, not as a side experiment
+Full-stack developer and final-year CS student who ships complete, production-ready products — not tutorials. Currently building **EduDesk**, a cloud CRM for consultancy agencies with a built-in **WhatsApp AI agent** (Next.js · Supabase · Prisma · Groq API), alongside real-world shipped work like a MERN real estate platform, a live billing desktop app (C#/.NET), and n8n-powered automation for client businesses. My edge beyond typical full-stack dev: wiring **AI agents and automation directly into production workflows**, not as side experiments.
 
 ### 🛠️ Tech Stack
 
