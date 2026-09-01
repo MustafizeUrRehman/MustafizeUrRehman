@@ -1,72 +1,59 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D4AFF&height=200&section=header&text=Mustafize&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20SaaS%20Builder&descAlignY=55&descSize=18" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D4AFF&height=220&section=header&text=Mustafize%20Ur%20Rehman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20%7C%20SaaS%20Builder&descAlignY=55&descSize=18" alt="header banner"/>
 </p>
 
-<h3 align="center">Full-Stack Developer | Building SaaS products from Pakistan 🇵🇰</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6D4AFF&center=true&vCenter=true&width=500&lines=Next.js+%7C+Supabase+%7C+Prisma+Developer;Building+EduDesk+-+CRM+for+Consultancies;Freelancer+%E2%86%92+SaaS+Founder+in+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6D4AFF&center=true&vCenter=true&width=600&lines=Building+full-stack+products%2C+not+just+code;MERN+%2B+Next.js+%2B+Supabase+%2B+Prisma;Wiring+AI+agents+into+real+businesses" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 What I'm building
+### 👋 About Me
 
-- **EduDesk** — A cloud-based CRM for Pakistani visa & study consultancy agencies, with a WhatsApp AI agent built in. Currently in active development.
-- Delivered a **billing & inventory desktop app** (C# WPF, .NET 8) for a retail business — currently live in production.
-- Built export/agro business websites and a **real estate platform with an n8n-powered chatbot** for real clients.
+I'm a full-stack developer and final-year Computer Science student who builds **complete, working products** — not tutorials, not boilerplate. From database schema to deployed UI to the AI layer that makes an app actually think, I own the whole stack.
 
-### 🛠️ Tech I work with
+My current focus: **EduDesk**, a cloud CRM for visa & study consultancy agencies, with a two-way **WhatsApp AI agent** wired directly into the business — built on Next.js, Supabase, Prisma, and the Groq API. I've also shipped real-world systems: a MERN-based real estate platform with a full admin architecture, a production billing/inventory desktop app (C# / .NET), and client websites with SEO and automation pipelines built on n8n.
 
-**Frontend:** Next.js 14 · React · Tailwind CSS · Framer Motion
-**Backend:** Node.js · Prisma · Supabase (PostgreSQL)
-**AI/Automation:** Groq API · LangChain/RAG concepts · n8n · React Flow
-**Other:** C# / WPF (.NET 8) for desktop apps · Twilio · Figma
+I care about clean architecture over quick hacks, and I'd rather ship one solid product than ten half-finished ones.
 
-### 🎯 Currently
+### 🚀 Highlighted Work
 
-- 80% building **EduDesk** end-to-end (schema → backend → WhatsApp AI agent)
-- 20% learning **AI system engineering** — applied directly into EduDesk, not as a side course
-- Final-year BSCS student @ COMSATS University Islamabad
+- **EduDesk** — Cloud CRM for consultancy agencies with an embedded WhatsApp AI agent (Next.js · Supabase · Prisma · Groq)
+- **Mughal Real Estate** — Full-stack MERN platform with separate client/admin/backend architecture
+- **Retail Billing System** — Production desktop app (C# / .NET 8, SQLite/Dapper) — delivered and live
+- **Client Web + Automation** — Export business websites with SEO setup and n8n-powered automation flows
 
-### 🌱 Currently Learning
+### 🤖 Automation & AI Agents
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+This is where I go beyond typical full-stack work:
+
+- Building **AI agents that run inside real business workflows** — not demos, production tools (WhatsApp CEO agent for EduDesk using Groq API structured outputs)
+- Designing **automation pipelines** with n8n to connect business logic across services
+- Applying **prompt engineering** and structured LLM outputs directly into product features, not as a side experiment
 
 ### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Database:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-![Groq](https://img.shields.io/badge/GROQ_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**AI & Automation:** ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-### 📫 Connect with me
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### 🌱 Currently Exploring
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+Scaling EduDesk toward multi-tenant architecture — cloud infra and deployment pipelines are next on the list.
+
+### 📫 Connect
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/osamabhatti786)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafizeUrRehman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamatoufiq62@gmail.com)
 
 ---
 
